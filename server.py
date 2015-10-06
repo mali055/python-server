@@ -1,4 +1,4 @@
-
+﻿
 # code reduced from https://wiki.python.org/moin/BaseHttpServer
 
 import time
